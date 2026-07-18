@@ -1,1 +1,10 @@
 # Iniciar codigo
+import pandas as pd
+
+# Exemplo de DataFrame
+df = pd.DataFrame({'NomeCompleto': ['João Silva', 'Maria Souza']})
+
+# Dividindo a coluna pelo espaço e expandindo em duas
+df[['PrimeiroNome', 'Sobrenome']] = df['NomeCompleto'].str.split(' ', expand=True)
+
+print(df)
