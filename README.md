@@ -8,8 +8,8 @@ Para que você possa praticar ainda mais, preparamos uma lista de atividades (n�
 
 Atividades
 
-Crie um diretório chamado "NovoProjeto" e inicie um repositório Git dentro dele.
-Dentro do repositório criado, crie um arquivo de texto chamado "README.md".
-Realize o commit e inclua a mensagem “Primeiro commit”.
-Abra o arquivo "README.md" e adicione algumas linhas de texto.
-Realize um novo commit com a mensagem "atualização do README".
+- Crie um diretório chamado "NovoProjeto" e inicie um repositório Git dentro dele.
+- Dentro do repositório criado, crie um arquivo de texto chamado "README.md".
+- Realize o commit e inclua a mensagem “Primeiro commit”.
+- Abra o arquivo "README.md" e adicione algumas linhas de texto.
+- Realize um novo commit com a mensagem "atualização do README".
