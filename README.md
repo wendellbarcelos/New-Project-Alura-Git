@@ -13,3 +13,8 @@ Atividades
 - Realize o commit e inclua a mensagem “Primeiro commit”.
 - Abra o arquivo "README.md" e adicione algumas linhas de texto.
 - Realize um novo commit com a mensagem "atualização do README".
+
+# Novo desafio
+Criamos uma nova branch chamada testes, adicionamos o código de testes disponibilizado e criamos um merge dessa nova alteração na branch main. Depois, apagamos a branch testes, tanto no repositório local, quanto no remoto.
+
+Você já fez esta atividade? Então agora é com você! Caso queira consultar os passos que seguimos para realizar a prática, clique na Opinião da pessoa instrutora.
