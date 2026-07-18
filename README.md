@@ -14,7 +14,22 @@ Atividades
 - Abra o arquivo "README.md" e adicione algumas linhas de texto.
 - Realize um novo commit com a mensagem "atualização do README".
 
-# Novo desafio
+# Desafio 2
 Criamos uma nova branch chamada testes, adicionamos o código de testes disponibilizado e criamos um merge dessa nova alteração na branch main. Depois, apagamos a branch testes, tanto no repositório local, quanto no remoto.
 
 Você já fez esta atividade? Então agora é com você! Caso queira consultar os passos que seguimos para realizar a prática, clique na Opinião da pessoa instrutora.
+
+# Desafios 3
+As estratégias de controle de versão, como branches, merge, GitFlow e trunk based, desempenham papéis cruciais no desenvolvimento de projetos de modo colaborativo. As branches possibilitam o trabalho em funcionalidades ou ajustes de forma isolada, evitando interferência no código principal. Por sua vez, o processo de merge une as alterações de uma branch de volta ao tronco principal, consolidando o trabalho desenvolvido.
+
+O Gitflow proporciona uma abordagem estruturada ao uso dos mecanismos de controle de versão. Já o Trunk Based incentiva um fluxo mais simples, incentivando commits frequentes diretamente no tronco principal, favorecendo a integração e entrega contínuas.
+
+Para você consolidar as estratégias e conceitos investigados ao longo dessa aula, deixamos aqui uma lista de atividades (não obrigatórias). Bora praticar!?
+
+Atividades
+
+- Crie um repositório para um projeto simples de sua escolha (fique à vontade para utilizar o projeto AllBooks ou outro projeto).
+- Crie uma nova branch chamada "nova-funcionalidade" e realize uma alteração simples no código.
+- Faça o merge da branch “nova-funcionalidade” com o master/main (tronco principal) do projeto.
+- Utilize o GitFlow para criar uma nova feature e, em seguida, inicie uma release.
+- Realize um commit direto no tronco principal (master/main) sem criar uma branch.
